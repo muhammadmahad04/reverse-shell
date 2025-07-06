@@ -29,3 +29,7 @@ A fully functional reverse shell written in C, built for educational and ethical
 ```bash
 g++ server.cpp -o server
 ./server
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
