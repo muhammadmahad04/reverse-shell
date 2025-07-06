@@ -1,4 +1,5 @@
 # 🛠️ Reverse Shell in C
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A fully functional reverse shell written in C, built for educational and ethical hacking purposes. Includes persistence via Windows Registry and an optional keylogger.
 
